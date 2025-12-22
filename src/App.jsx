@@ -2,7 +2,7 @@
 import React, { useRef, useMemo } from 'react';
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
-import ProductHighlight from './components/ProductHighlight';
+import ProductHighlight from './components/ProductHighLight';
 import ProcessSection from './components/ProcessSection';
 import OriginSection from './components/OriginSection';
 import GuideSection from './components/GuideSection';
